@@ -1,3 +1,3 @@
 # learning-git
-Learning GIT
+Learning GIT with Github
 
