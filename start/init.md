@@ -14,3 +14,10 @@ git status
 git add start
 
 git status
+
+
+git remote 
+
+git remote add origin https://github.com/ishara/learning-git.git
+
+git remote -v
