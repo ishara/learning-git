@@ -29,3 +29,8 @@ git push origin master
 git branch --set-upstream-to origin/master master
 
 git fetch
+
+git reset
+#revert commit mixing, soft ,hard
+git rebase
+#commit message reorder , combine , change and remove 
